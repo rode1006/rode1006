@@ -1,5 +1,5 @@
 ![gitartwork](gitartwork.svg)
-<h1 align="center">Hi 👋 This is Rodney Lo</h1>
+<h1 align="center">Hi 👋 This is William Rollason</h1>
 
 <h3 align="center">Experienced Senior Software Engineer with expertise in Ruby on Rails, React.js, JavaScript, PostgreSQL, and Agile
 methodologies. Skilled in software development, DevOps, software design, and project management. Committed to delivering
